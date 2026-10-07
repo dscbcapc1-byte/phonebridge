@@ -1,0 +1,6 @@
+{
+  "name": "PhoneBridge",
+  "description": "Instant cross-device temporary file bridge from phone to PC with zero cloud sync, automatic session expiration, and Apple-grade elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
